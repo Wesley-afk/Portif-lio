@@ -1,0 +1,11 @@
+
+.cabeçalho{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: unset;
+    height: 100%;
+    padding: 30%;
+    background-color: rgb(62, 58, 58);
+    /* text-align: start; */
+    /* text-align: left; */
+    /* box-sizing: 50px; */
+}
