@@ -1,11 +1,56 @@
-
-.cabeçalho{
+.cabeçalho {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-style: unset;
-    height: 100%;
-    padding: 30%;
-    background-color: rgb(62, 58, 58);
-    /* text-align: start; */
-    /* text-align: left; */
-    /* box-sizing: 50px; */
+    background-color: rgb(33, 32, 32);
+    display: flex;
+    padding: 100px;
+    align-items: center;
+    /* justify-content: center; */
+    text-align: center;
 }
+
+.name {
+    font-size: 50px;
+}
+
+.descrição {
+    margin-top: -30px;
+}
+
+.name-descrição {
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+}
+
+.foto_wesley {
+    width: 400px;
+    height: auto;
+    margin-left: 20px;
+}
+
+.sobremim {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 25px;
+    background-color: rgb(33, 32, 32);
+    color: white;
+}
+
+.p1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    size: 30px;
+    color: rgb(27, 150, 227);
+    /* display: flex; */
+    margin-left: 80px;
+}
+
+.text01{
+    margin-left: 80px;
+}
+/* 
+.sesaodetransição{
+    padding: 25px;
+    background-color: aqua;
+    margin-top: 325px;
+    margin-left: 325px;
+} */
