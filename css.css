@@ -10,11 +10,14 @@
 }
 
 .name {
-    font-size: 50px;
+    font-size: 60px;
+    margin-left: 80px;
+    margin-top: 80px;
 }
 
 .descrição {
-    margin-top: -30px;
+    margin-top: -80px;
+    margin-left: 70px;
 }
 
 .name-descrição {
@@ -24,6 +27,7 @@
 }
 
 .foto_wesley {
+    margin-top: 90px;
     width: 400px;
     height: auto;
     margin-left: 20px;
@@ -31,26 +35,62 @@
 
 .sobremim {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    padding: 25px;
+    padding: 50px;
     background-color: rgb(33, 32, 32);
     color: white;
+    margin-left: 80px;
 }
 
 .p1 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    size: 30px;
+    font-size: 20px;
     color: rgb(27, 150, 227);
     /* display: flex; */
     margin-left: 80px;
 }
 
-.text01{
+.text01 {
     margin-left: 80px;
 }
+
 /* 
 .sesaodetransição{
     padding: 25px;
     background-color: aqua;
     margin-top: 325px;
     margin-left: 325px;
+} */
+
+.head {
+    margin: 0px;
+}
+
+/* .body{
+    height: 100%;
+} */
+
+.idade {
+    color: rgb(27, 150, 227);
+    font-size: 15px;
+    margin-left: 270px;
+}
+
+.datadenascimento {
+    color: rgb(27, 150, 227);
+    margin-left: -250px;
+}
+
+.informaçõesadd {
+    color: white;   
+    margin-top: -420px;
+}
+
+.telefone{
+    margin-left: 260px;
+    margin-top: -46px;
+}
+
+/* .e-mail{
+     margin-bottom: 200px;
+   
 } */
