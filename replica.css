@@ -1,0 +1,85 @@
+.contatoGmail {
+    color: white;
+    background-color: rgb(41, 39, 39);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 12px;
+    /* font-size:larger; */
+}
+
+.gmail {
+    color: rgb(27, 150, 227);
+    /* font-size:larger; */
+}
+
+.email {
+    padding-left: 85px;
+    margin-top: -47px;
+    font-size: larger;
+}
+
+.telefone {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(27, 150, 227);
+    padding-left: 425px;
+    margin-top: -60px;
+    /* font-size:larger; */
+}
+
+.celular {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    padding-left: 525px;
+    margin-top: -47px;
+    /* font-size:larger; */
+}
+
+.name {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    margin-top: 300px;
+    margin-left: 210px;
+    font-size: 80px;
+    color: white;
+}
+
+.description {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    margin-top: -75px;
+    margin-left: 280px;
+    color: rgb(27, 150, 227);
+}
+
+.foto {
+    height: 300px;
+    width: auto;
+    margin-left: 800px;
+    margin-top: -225px;
+}
+
+.Menu {
+    background-color: white;
+}
+
+/*Menu*/
+
+.Menu li {
+    list-style: none;
+    margin: 5px;
+    background-color: yellow; /* display: inline; Posso usar também o inline block */
+    display: inline-block; /*Deixa como se fosse um pequeno padding*/
+    padding: 0px;
+    
+}
+
+.Menu a {
+    background-color: rgb(131, 193, 38);
+    padding: 16px;
+}
+
+.Menu a:hover{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(23, 23, 23);
+    text-decoration:none; /*para tirar qualquer decoração*/
+    color: rgb(255, 255, 255);
+}
