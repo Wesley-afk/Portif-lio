@@ -63,23 +63,48 @@
 
 /*Menu*/
 
-.Menu li {
+/* .Menu li {
     list-style: none;
     margin: 5px;
     background-color: yellow; /* display: inline; Posso usar também o inline block */
-    display: inline-block; /*Deixa como se fosse um pequeno padding*/
-    padding: 0px;
+    /* display: inline-block; Deixa como se fosse um pequeno padding */
+    /* padding: 0px; */
     
-}
-
-.Menu a {
-    background-color: rgb(131, 193, 38);
-    padding: 16px;
-}
-
+/* } */
+/* 
 .Menu a:hover{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: rgb(23, 23, 23);
-    text-decoration:none; /*para tirar qualquer decoração*/
-    color: rgb(255, 255, 255);
+    background-color: rgb(23, 23, 23); */
+    /* text-decoration:none; para tirar qualquer decoração */
+    /* color: rgb(255, 255, 255); */
+/* } */
+
+/* .youtube{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 18px;
+    color: white;
+} */
+
+.youtube{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(27, 150, 227);
+    margin-left: 700px;
+    display: block;
+    margin-top: -48px;
+}
+
+.youtube h3 img{
+    height: 40px;
+    width: auto;
+    display:flex;
+    margin-left: 88px;
+    margin-top: -35px;
+}
+
+.youtube :hover{
+    background-color: rgb(0, 0, 0);
+    width: 80px;
+    height: auto;
+    color:rgb(253, 253, 253);
 }
